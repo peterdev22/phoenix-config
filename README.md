@@ -5,6 +5,8 @@ My setup is a simplified version of padded window management for people who only
 
 Thank you to [Jaredk3nt](https://github.com/Jaredk3nt/phoenix-padding) and [christopherbruce](https://github.com/christopherbruce/phoenix-padding)'s configurations for most of the code.
 
+![example_layout](example.png)
+
 ---
 
 ## Shortcuts
