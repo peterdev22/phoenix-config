@@ -54,7 +54,6 @@ var bottomRight = new Key('\'', MOD, () => {
 });
 
 var bottomLeft = new Key(';', MOD, () => {
-  if ( VERBOSE ) { movementModal( 'bottom left of next display' ); }
   Window.focused().setFrame(windowLocations(Screen.main()).bottomLeft);
 });
 
